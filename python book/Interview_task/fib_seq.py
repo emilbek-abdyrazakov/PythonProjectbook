@@ -43,5 +43,5 @@ def fib1(n):
     return res
 
 print(fib1(500))
-#
+print(fib1(10))
 #
